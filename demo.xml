@@ -11,34 +11,28 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <person>
-        <name>
-            nice watch
-        </name>
-        <avatar>
-            //oxm1.cc/img/fox.jpg
-        </avatar>
-        <company>
-            notebook
-        </company>
-        <position>
-            camera
-        </position>
-        <phone>
-            mobilephone
-        </phone>
-        <email>
-            good camera
-        </email>
-        <logo>
-            //oxm1.cc/img/fox.jpg
-        </logo>
-        <site>
-            //oxm1.cc/img/fox.jpg
-        </site>
-        <slogan>
-            car
-        </slogan>
-    </person>
+        <person>
+            <name>
+                吴瑞
+            </name>
+            <avatar>//a.oxm1.cc/img/fox.jpg</avatar>
+            <company>
+                杭州声罄科技有限公司
+            </company>
+            <section>扫码车贴项目部</section>
+            <position>
+                区域经理
+            </position>
+            <phone>18199992222</phone>
+            <email>
+                rio@senking.tech
+            </email>
+            <logo>http://i.oxm1.cc/uploads/git/wurui/img/2ags82v5iTj2k4yqkaRzzmnA3tm-1000.png</logo>
+            <site>http://www.shaomachetie.com</site>
+            <introduce>产品咨询、商务合作欢迎与本人沟通!</introduce>
+            <slogan>
+                让创新产品、创新理念改来世界
+            </slogan>
+        </person>
     </data>
 </root>
