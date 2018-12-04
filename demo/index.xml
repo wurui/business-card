@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+        <nick>wurui</nick>
+    </login>
+    <p>
+        <title>amazon-cross-imglist demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+        <info-company>
+            <i>
+                <logo>http://i.oxm1.cc/uploads/git/wurui/img/2aeew1jrqTj4xh01y2R0yu6A3ta-1000.png</logo>
+                <name>杭州声罄科技有限公司</name>
+                <address>浙江杭州余杭</address>
+                <website>http://www.cenchin.com</website>
+                <introduce></introduce>
+                <slogan>我们掌握着改变世界的力量</slogan>
+                <contacts>
+                    <i>
+                        <name>客服</name>
+                        <no>kf@cenchin.com</no>
+                        <type>email</type>
+                    </i>
+                    <i>
+                        <name>商务</name>
+                        <no>b@cenchin.com</no>
+                        <type>email</type>
+                    </i>
+                </contacts>
+                <since>1489723200000</since>
+            </i>
+        </info-company>
+        <user-bizcard>
+            <i>
+                <name>王美丽</name>
+                <title>高级产品经理</title>
+                <avatar>http://i.oxm1.cc/uploads/git/wurui/img/2ajyf6sgiTizdxut9aR2d16Lma4.jpg</avatar>
+                <department>产品设计部</department>
+                <phone>18199992222</phone>
+                <email>zs@cenchin.com</email>
+                <website>http://www.cenchin.com</website>
+                <introduce>5年行业经验，致力于产品设计、运营、研发；欢迎就相关问题进行咨询</introduce>
+                <uid>git/wurui</uid>
+            </i>
+        </user-bizcard>
+    </data>
+</root>

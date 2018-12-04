@@ -1,6 +1,14 @@
 {
   "name": "business-card",
   "version": "0.0.1",
-  "apiDependencies": ["person"]
+  "apiDependencies": [
+  	{
+  		"name":"info-company"
+  	},
+  	{
+  		"name":"user-bizcard",
+  		"selector":"_id"
+  	}
+  ]
 }
 
