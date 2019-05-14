@@ -1,9 +1,9 @@
 {
+  "RULE_VERSION":"20190428",
   "name": "business-card",
-  "version": "0.0.1",
   "apiDependencies": [
   	{
-  		"name":"info-company"
+  		"name":"the-company"
   	},
   	{
   		"name":"user-bizcard",

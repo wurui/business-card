@@ -3,7 +3,7 @@
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-business-card" ox-mod="business-card">
             <xsl:variable name="person" select="data/user-bizcard/i[1]"/>
-            <xsl:variable name="company" select="data/info-company/i[1]"/>
+            <xsl:variable name="company" select="data/the-company"/>
 
             <div class="title">
                 <img src="{$person/avatar}" class="avatar"/>
